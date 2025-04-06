@@ -73,7 +73,7 @@ The main EDA steps included:
   - Verified the success of conversion and checked for null entries in the `Time` field.
 
 - **Data Exploration**  
-  - Analyzed the unique values in `Carrier` to understand the distribution of drivers across different logistics companies.
+  - Analyzed the unique values in `Dataset` to understand the distribution of drivers across different logistics companies.
   - Reviewed driver activities by inspecting early entries from the dataset.
 
 - **Feature Engineering**  
