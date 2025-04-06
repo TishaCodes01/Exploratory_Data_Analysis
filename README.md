@@ -98,7 +98,7 @@ Key visualization:
   <img width="861" alt="image" src="https://github.com/user-attachments/assets/29a228b5-faab-4c64-89e0-d2fd0002a440" />
 
 
-  for more information visit this notebook : [driver_analyis.ipynb](https://github.com/TishaCodes01/Exploratory_Data_Analysis/tree/main/ipynb_file)
+  for more information visit this notebook : [driver_EDA.ipynb](https://github.com/TishaCodes01/Exploratory_Data_Analysis/tree/main/ipynb_file)
 
 ---
 # 📊 Key Insights
