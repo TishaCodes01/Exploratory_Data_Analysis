@@ -15,7 +15,6 @@ Dataset Overview:
 | Column Name              | Description |
 |---------------------------|-------------|
 | **Driver**                | Name of the driver (e.g., Joe) |
-| **Carrier**               | Name of the company managing the driver (e.g., PortPro) |
 | **Time**                  | Timestamp when the location was recorded |
 | **Location**              | Latitude and Longitude coordinates of the driver's position |
 | **Load Reference Number** | Unique identifier for the load or delivery associated with the driver |
