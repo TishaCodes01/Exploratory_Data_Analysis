@@ -65,7 +65,7 @@ The main EDA steps included:
 
 - **Initial Data Inspection**  
   - Checked dataset structure with `.info()` and `.head(20)`.
-  - Identified columns like `Driver`, `Carrier`, `Time`, `Location`, and `Load Reference Number`.
+  - Identified columns like `Driver`, `Time`, `Location`, and `Load Reference Number`.
 
 - **Data Cleaning**  
   - Converted the `Time` column from object type to `datetime` format using `pd.to_datetime()`.
